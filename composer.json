@@ -1,5 +1,5 @@
 {
-    "name": "lm\/hw-ads",
+    "name": "xinxi\/hw-ads",
     "description": "HwAds api",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Lm\\HwAds\\": "src"
+            "Xinxi\\HwAds\\": "src"
         }
     }
 }
