@@ -1,0 +1,17 @@
+{
+    "name": "package\/hw-ads",
+    "description": "HwAds api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom",
+            "email": "18924535883@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Package\\HwAds\\": "src"
+        }
+    }
+}
