@@ -8,7 +8,9 @@
             "email": "18924535883@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
     "autoload": {
         "psr-4": {
             "Xinxi\\HwAds\\": "src"
